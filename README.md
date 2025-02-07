@@ -58,4 +58,4 @@ To formulate these prompts, I incorporated relevant terminology and frameworks a
 After generating responses from the LLM, I compared them against my predefined objectives. This involved verifying the completeness of the provided steps and evaluating their coherence and relevance to ensure they met the expected criteria.
 
 # Follow me and let's connect
-www.linkedin.com/in/richard-asiamah-007b20242
+www.linkedin.com/in/narichie
